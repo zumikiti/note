@@ -5,7 +5,8 @@ module.exports = {
   themeConfig: {
     sidebar: [
       '/',
-      '/vueRouter/',
+      '/VueRouter/',
+      '/GitHub/',
     ],
     lastUpdated : true,
   },
