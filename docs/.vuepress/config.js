@@ -8,6 +8,8 @@ module.exports = {
       '/',
       '/VueRouter/',
       '/GitHub/',
+      '/Laravel/',
+      '/Shell/'
     ],
     lastUpdated : true,
   },

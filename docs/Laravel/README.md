@@ -1,5 +1,7 @@
 # Laravel のメモ帳
 
+[[toc]]
+
 ## duplicates が BadMethodCallException とエラーになる
 コレクションに重複がないことを確認しようと以下のようなコードをテストで書いた。
 ```php
