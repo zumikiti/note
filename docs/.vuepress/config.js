@@ -1,6 +1,12 @@
 module.exports = {
-  title: 'Hello VuePress',
-  description: 'Just playing around',
+  title: 'Zumikiti Note',
+  description: 'いろいろ書く場所',
+  theme: 'yuu',
+  themeConfig: {
+    yuu: {
+      defaultDarkTheme: true,
+    },
+  },
   base: '/note/',
 
   themeConfig: {
