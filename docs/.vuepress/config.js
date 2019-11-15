@@ -9,7 +9,15 @@ module.exports = {
       '/VueRouter/',
       '/GitHub/',
       '/Laravel/',
-      '/Shell/'
+      '/Shell/',
+      {
+        title: 'その他',   // required
+        collapsable: true, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          '/Other/UseingTools'
+        ]
+      },
     ],
     lastUpdated : true,
   },
