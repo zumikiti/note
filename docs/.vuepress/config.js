@@ -24,6 +24,14 @@ module.exports = {
           '/Other/UseingTools'
         ]
       },
+      {
+        title: 'Vuepress',
+        collapsable: true,
+        sidebarDepth: 1,
+        children: [
+          '/Vuepress/ChangeToDarkTheme'
+        ],
+      },
     ],
     lastUpdated : true,
   },
